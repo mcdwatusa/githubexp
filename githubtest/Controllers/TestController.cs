@@ -14,5 +14,9 @@ namespace githubtest.Controllers
         {
             return View();
         }
+        public ActionResult GetDetailsInfo()
+        {
+            return View();
+        }
     }
 }
